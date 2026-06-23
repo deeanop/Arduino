@@ -1,0 +1,28 @@
+# === Arduino IDE & CLI (Build Outputs) ===
+build/
+bin/
+obj/
+
+Blocks Generated Binary and Intermediary Files
+*.elf
+*.hex
+*.bin
+*.eep
+*.lst
+*.map
+
+# === PlatformIO  ===
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# === VS Code & Editors ===
+.vscode/
+!platformio.ini
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+*.bak
