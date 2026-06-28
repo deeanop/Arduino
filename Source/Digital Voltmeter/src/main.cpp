@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include "HT16K33.h"
 #include <Wire.h>
-#include <math.h>
 #define INPUT_VOLTAGE A0
 #define REFFERENDCE_VOLTAGE 5
 #define DIVISION_FACTOR 4
