@@ -1,7 +1,7 @@
 The Basic Arduino Laboratory
 1. Digital Voltmeter:
-  -technologies used: voltage divisor, HT16K33 7 segment display, I2C communication protocol
-  -tested using a digital multimeter and a signal source
+  *technologies used: voltage divisor, HT16K33 7 segment display, I2C communication protocol
+  *tested using a digital multimeter and a signal source
 2. Digital Ammeter
 3. Digital Ohmmeter
 4. Digital Capacimeter
